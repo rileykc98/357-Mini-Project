@@ -1,8 +1,11 @@
 # Case Study: UX/UI Design of a Healthy Screen Habits Super App
 
 Conducted by:
+
 Richard Riley Kilmer-Choi - 40048739
+
 Jeffrey Wilgus - 
+
 Thierry -
 
 
