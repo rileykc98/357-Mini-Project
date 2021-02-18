@@ -1,15 +1,44 @@
-## Welcome to GitHub Pages
+# Case Study: UX/UI Design of a Healthy Screen Habits Super App
 
-You can use the [editor on GitHub](https://github.com/rileykc98/357-Mini-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Conducted by:
+Richard Riley Kilmer-Choi - 40048739
+Jeffrey Wilgus - 
+Thierry -
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## The Problem
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+problem description
 
-```markdown
-Syntax highlighted code block
+## Research
+
+existing apps
+
+public survey
+
+expert questionnaire
+
+
+## User Personas
+
+
+## Journey map / Story board
+
+
+## Sketches / Wireframes
+
+
+## Design + Color palette
+
+
+## Final design + Usage
+
+
+## Conclusion
+
+
+
+
 
 # Header 1
 ## Header 2
