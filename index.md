@@ -2,11 +2,9 @@
 
 Conducted by:
 
-Richard Riley Kilmer-Choi - 40048739
-
-Jeffrey Wilgus - 
-
-Thierry -
+- Richard Riley Kilmer-Choi - 40048739
+- Jeffrey Wilgus - 
+- Thierry -
 
 
 ## The Problem
