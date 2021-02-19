@@ -39,12 +39,19 @@ Finally, respondents were asked to what extent they agree with the following sta
 
 ## User Personas
 ![image](/resources/persona-alexandre.png) 
+
 Mohammed Sayen
 ![image](/resources/persona-mohammed.jpg)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg">
-<img src="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg"/></a>
+<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg"></a>
+
+Andre Chen
 ![image](/resources/persona-andre.png)
-![image](/resources/persona-evan.png) ![image](/resources/persona-fiona.png)
+
+Evan Masters
+![image](/resources/persona-evan.png) 
+
+Fiona Cunningham
+![image](/resources/persona-fiona.png)
 
 ## Journey map / Empathy Map
 The following empathy map and journey map were created from the point of view of a generic user that shares the common traits of the personas above, but may lack the idiosyncracies of any particular persona.
