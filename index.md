@@ -51,7 +51,7 @@ The following empathy map and journey map were created from the point of view of
 
 ## Sketches / Wireframes
 
-
+![image](/resources/sketch.png)
 ## Design + Color palette
 
 
