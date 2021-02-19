@@ -43,7 +43,6 @@ Finally, respondents were asked to what extent they agree with the following sta
 
 ## Journey map / Empathy Map
 ![image](/resources/empathy-map.png)
-![image](/resources/journey-map.png)
 <a href="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png">
 <img src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png"/>
 </a>
