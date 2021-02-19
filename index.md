@@ -32,8 +32,6 @@ As for app usage, each of the following categories had over 70% of surveyed user
 
 Finally, respondents were asked to what extent they agree with the following statements. To the statement "I feel as if my digital devices, and the activities I engage in on them, are a distraction", 56% of respondents either agreed or strongly agreed. Next, to the statement "I find the time I spend interacting with my digital devices to be enjoyable", 76% of respondents either agreed or strongly agreed. And lastly, to the statement "I am worried that the amount of time I spend interacting with my digital devices is adversely affecting my physical and/or mental health", 56% of respondents either agreed or strongly agreed. From these responses, it can be interpreted that despite the time spent interacting with digital being enjoyable, they ultimately become distracting, and most people are at least somewhat concerned about how this time is affecting their mental and physical well being.
 
-// statement response charts
-
 ### Expert Interview
 
 
