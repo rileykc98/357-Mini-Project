@@ -104,7 +104,7 @@ We use an active voice and present tense to engage our users.
 <table>
   <tr>
     <td><img width="100%" src="/resources/mainmenu.png"></td>
-    <td></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
