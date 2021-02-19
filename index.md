@@ -62,8 +62,9 @@ Fiona Cunningham
 ## Journey map / Empathy Map
 The following empathy map and journey map were created from the point of view of a generic user that shares the common traits of the personas above, but may lack the idiosyncracies of any particular persona.
 ![image](/resources/empathy-map.png)
-<a href="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png">
-<img src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png"/>
+
+<a href="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png.jpg">
+<img src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png.jpg"/>
 </a>
 
 
