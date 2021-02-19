@@ -47,36 +47,30 @@ Finally, respondents were asked to what extent they agree with the following sta
 Base on our research, we have developed the following personas that capture the behavioral variables of our targeted user bases.
 
 Alexandre Mayen
-![image](/resources/persona-alexandre.png)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-alexandre.png"></a>
+![image](/resources/persona-alexandre.jpg)
 
 Mohammed Sayen
 ![image](/resources/persona-mohammed.jpg)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg"></a>
 
 Andre Chen
-![image](/resources/persona-andre.png)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-andre.png"></a>
+![image](/resources/persona-andre.jpg)
 
 Evan Masters
-![image](/resources/persona-evan.png)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-evan.png"></a>
+![image](/resources/persona-evan.jpg)
 
 Fiona Cunningham
-![image](/resources/persona-fiona.png)
-<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-fiona.png"></a>
+![image](/resources/persona-fiona.jpg)
 
 ## Journey map / Empathy Map
 The following empathy map and journey map were created from the point of view of a generic user that shares the common traits of the personas above, but may lack the idiosyncracies of any particular persona.
-![image](/resources/empathy-map.png)
+![image](/resources/empathy-map.jpg)
 
-<a href="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png.jpg">
-<img src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png.jpg"/>
-</a>
+![image](/resources/journey-map.jpg)
 
 
 ## Sketches / Wireframes
 We began with a simple sketch for our homepage.
+
 ![image](/resources/sketch.png)
 ## Design
 ### Colors
