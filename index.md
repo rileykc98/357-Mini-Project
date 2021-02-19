@@ -41,7 +41,16 @@ As for app usage, each of the following categories had over 70% of surveyed user
 Finally, respondents were asked to what extent they agree with the following statements. To the statement "I feel as if my digital devices, and the activities I engage in on them, are a distraction", 56% of respondents either agreed or strongly agreed. Next, to the statement "I find the time I spend interacting with my digital devices to be enjoyable", 76% of respondents either agreed or strongly agreed. And lastly, to the statement "I am worried that the amount of time I spend interacting with my digital devices is adversely affecting my physical and/or mental health", 56% of respondents either agreed or strongly agreed. From these responses, it can be interpreted that despite the time spent interacting with digital being enjoyable, they ultimately become distracting, and most people are at least somewhat concerned about how this time is affecting their mental and physical well being.
 
 ### Expert Interview
+Another way that our team gathered information on the subject of mental and physical wellness, was by consulting an expert in the field. The individual that we had the pleasure of speaking with holds the following degrees and certifications.
+- Bachelor of Physical and Health Education (BPHE)
+- Bachelor of Arts (BA)
+- Professional Certified Coach (PCC) with the International Coaching Federation (ICF)
+- Certificate in coaching with positive psychology
+- Certificate in coaching with emotional intelligence
 
+Our expert was asked to reflect on their years of education and experience, to answer a handful of questions. The first thing we learned from speaking with an expert is that an increased amount of screentime in a person's daily routine is generally known to worsen their mental wellbeing. Their opinion on how much screen time is appropriate for the average person is 1/3rd of their waking hours, which for most people is approximately 5 hours. Reflecting on our public survey results, the majority of people spend 10+ hours per day looking at some form of screen. Evidently, the implication of these results is that most people average more than double our expert's recommended time.
+
+As a countermeasure to rising amounts of screentime, our experts suggested the following strategies. First, having non-screen activities on hand and schedule them intermittently throughout the day to break up screen time. These activies could include listening to music, exercising, reading etc. Next, our expert recommended using only one primary source of social media, in an effort to reduce the amount of time spent scrolling. Lastly, in light of the pandemic, our expert advised using screens for genuine human connection as much as possible. Meaning, trading scrolling through media feeds for video calling with friends as this is known to replenish one's emotional tank.
 
 ## User Personas
 Base on our research, we have developed the following personas that capture the behavioral variables of our targeted user bases.
