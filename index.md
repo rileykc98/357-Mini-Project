@@ -38,7 +38,8 @@ Finally, respondents were asked to what extent they agree with the following sta
 
 
 ## User Personas
-![image](/resources/persona-alexandre.png)
+![image](/resources/persona-alexandre.png) ![image](/resources/persona-mohammed.png) ![image](/resources/persona-andre.png)
+![image](/resources/persona-evan.png) ![image](/resorces/persona-fiona.png)
 
 ## Journey map / Story board
 
