@@ -38,7 +38,12 @@ Finally, respondents were asked to what extent they agree with the following sta
 
 
 ## User Personas
-![image](/resources/persona-alexandre.png) ![image](/resources/persona-mohammed.png) ![image](/resources/persona-andre.png)
+![image](/resources/persona-alexandre.png) 
+Mohammed Sayen
+![image](/resources/persona-mohammed.jpg)
+<a href="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg">
+<img src="https://github.com/rileykc98/357-Mini-Project/blob/gh-pages/resources/persona-mohammed.jpg"/></a>
+![image](/resources/persona-andre.png)
 ![image](/resources/persona-evan.png) ![image](/resources/persona-fiona.png)
 
 ## Journey map / Empathy Map
