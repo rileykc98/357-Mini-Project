@@ -24,15 +24,13 @@ Of the 25 people surveyed, only 11 conciously tracked their amount of screentime
 
 Excessive screentime (especially in the hour before bedtime) is known to casue a decrease in natuaral melatonin levels, resulting in poor sleep quality and difficulty falling asleep [[1]](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). This is supported by our survey data, as of those who reported having difficulty falling asleep or staying asleep, 57% of them stated that they stopped looking at screens less than 10 minutes before bed.
 
-// bedtime stats chart(s)
+![image](/resources/sleep-trouble-screen-shut-off-chart.jpg)
 
 As for app usage, each of the following categories had over 70% of surveyed users say that they used their digital devices for them: Reading/sending emails, social networking, text messaging, browsing the internet, watching movies/tv, playing games, and watching videos. Of those categories, the three that reportedly occupied the most time were social networking, watching videos, and playing games. The survey also prompted responders to identify which types of "healthy lifestyle apps" they use currently or in the past on a daily basis. The results from this question are detailed in the image below.
 
-// app usage chart(s)
+![image](/resources/app-usage-chart-2.jpg)
 
 Finally, respondents were asked to what extent they agree with the following statements. To the statement "I feel as if my digital devices, and the activities I engage in on them, are a distraction", 56% of respondents either agreed or strongly agreed. Next, to the statement "I find the time I spend interacting with my digital devices to be enjoyable", 76% of respondents either agreed or strongly agreed. And lastly, to the statement "I am worried that the amount of time I spend interacting with my digital devices is adversely affecting my physical and/or mental health", 56% of respondents either agreed or strongly agreed. From these responses, it can be interpreted that despite the time spent interacting with digital being enjoyable, they ultimately become distracting, and most people are at least somewhat concerned about how this time is affecting their mental and physical well being.
-
-// statement response charts
 
 ### Expert Interview
 
