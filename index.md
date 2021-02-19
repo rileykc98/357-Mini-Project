@@ -24,7 +24,7 @@ Of the 25 people surveyed, only 11 conciously tracked their amount of screentime
 
 Excessive screentime (especially in the hour before bedtime) is known to casue a decrease in natuaral melatonin levels, resulting in poor sleep quality and difficulty falling asleep [[1]](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). This is supported by our survey data, as of those who reported having difficulty falling asleep or staying asleep, 57% of them stated that they stopped looking at screens less than 10 minutes before bed.
 
-![image](/resources/sleep-trouble-screen-shut-off-chart.jpg)
+// bedtime stats chart(s)
 
 As for app usage, each of the following categories had over 70% of surveyed users say that they used their digital devices for them: Reading/sending emails, social networking, text messaging, browsing the internet, watching movies/tv, playing games, and watching videos. Of those categories, the three that reportedly occupied the most time were social networking, watching videos, and playing games. The survey also prompted responders to identify which types of "healthy lifestyle apps" they use currently or in the past on a daily basis. The results from this question are detailed in the image below.
 
@@ -42,6 +42,7 @@ Finally, respondents were asked to what extent they agree with the following sta
 ![image](/resources/persona-evan.png) ![image](/resources/persona-fiona.png)
 
 ## Journey map / Empathy Map
+The following empathy map and journey map were created from the point of view of a generic user that shares the common traits of the personas above, but may lack the idiosyncracies of any particular persona.
 ![image](/resources/empathy-map.png)
 <a href="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png">
 <img src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/journey-map.png"/>
