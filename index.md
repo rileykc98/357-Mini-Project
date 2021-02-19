@@ -20,7 +20,7 @@ In order to better understand potential users of (the app), we conducted a publi
 
 Of the 25 people surveyed, only 11 conciously tracked their amount of screentime on a regular basis. Additionally, in the past 6 months only 8% of people surveyed stated that their average screentime decreased, while 60% stated that their screentime increased. With the increased dependency on technology as a means of human connection with escalating restrictions due to COVID-19, it is becoming more and more important to manage screentime effectively for both physical and mental health. 
 
-// past 6 month chart
+![image](/resources/past-6-months-chart.jpg)
 
 Excessive screentime (especially in the hour before bedtime) is known to casue a decrease in natuaral melatonin levels, resulting in poor sleep quality and difficulty falling asleep [[1]](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). This is supported by our survey data, as of those who reported having difficulty falling asleep or staying asleep, 57% of them stated that they stopped looking at screens less than 10 minutes before bed.
 
