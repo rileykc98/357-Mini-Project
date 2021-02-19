@@ -3,8 +3,8 @@
 Conducted by:
 
 - Richard Riley Kilmer-Choi - 40048739
-- Jeffrey Wilgus - 
-- Thierry -
+- Jeffrey Wilgus - 29206345
+- TianMing Chen - 40058543
 
 
 ## The Problem
