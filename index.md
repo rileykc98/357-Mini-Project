@@ -41,8 +41,9 @@ Finally, respondents were asked to what extent they agree with the following sta
 ![image](/resources/persona-alexandre.png) ![image](/resources/persona-mohammed.png) ![image](/resources/persona-andre.png)
 ![image](/resources/persona-evan.png) ![image](/resources/persona-fiona.png)
 
-## Journey map / Story board
-
+## Journey map / Empathy Map
+![image](/resources/empathy-map.png)
+![image](/resources/journey-map.png)
 
 ## Sketches / Wireframes
 
