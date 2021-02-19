@@ -94,8 +94,8 @@ We felt that using a serif font would come off as too serious, while a sasn-seri
 ### Signing Up and Logging In
 <table>
   <tr>
-    <td><img width="100%" src="/resources/signup.png"></td>
-    <td><img width="100%" src="/resources/signin.png"></td>
+    <td><img width="100%" src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/signup.png"></td>
+    <td><img width="100%" src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/signin.png"></td>
   </tr>
 </table>
 
@@ -112,8 +112,8 @@ We use an active voice and present tense to engage our users.
 Users can limit their usage of distracting apps.
 <table>
   <tr>
-    <td><img width="100%" src="/resources/guard.png"></td>
-    <td><img width="100%" src="/resources/guard_sub.png"></td>
+    <td><img width="100%" src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/guard.png"></td>
+    <td><img width="100%" src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/guard_sub.png"></td>
   </tr>
 </table>
 
