@@ -103,7 +103,7 @@ We felt that using a serif font would come off as too serious, while a sasn-seri
 We use an active voice and present tense to engage our users.
 <table>
   <tr>
-    <td><img width="100%" src="/resources/mainmenu.png"></td>
+    <td><img width="100%" src="https://raw.githubusercontent.com/rileykc98/357-Mini-Project/gh-pages/resources/mainmenu.png"></td>
     <td width="50%"></td>
   </tr>
 </table>
