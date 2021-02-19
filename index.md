@@ -92,13 +92,20 @@ We felt that using a serif font would come off as too serious, while a sasn-seri
 
 ## Final design + Usage
 ### Signing Up and Logging In
-![image](/resources/signup.png) ![image](/resources/signin.png)
+
+<img align="left" width="50%" src="/resources/signup.png">
+<img align="right" width="50%" src="/resources/signin.png">
+
 ### Main Menu
 We use an active voice and present tense to engage our users.
-![image](/resources/mainmenu.png)
+
+<img align="center" width="50%" src="/resources/mainmenu.png">
+
 ### App Guard
 Users can limit their usage of distracting apps.
-![image](/resources/guard.png) ![image](/resources/guard_sub.png)
+
+<img align="left" width="50%" src="/resources/guard.png">
+<img align="right" width="50%" src="/resources/guard_sub.png">
 
 ## Conclusion
 We found the design process both illuminating and rewarding. By conducting research on the problem and users' behavioral patterns first, we were more confident that our design decisions later on were relevant to them, and enhanced rather than hindered their needs and goals. We enjoyed incrementally and iteratively refining our conception of our users and the user experience we plan to deliver to them. Given the opportunity, we would like to develop this application further.
