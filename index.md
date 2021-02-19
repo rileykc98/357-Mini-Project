@@ -62,7 +62,8 @@ Fiona Cunningham
 ![image](/resources/persona-fiona.jpg)
 
 ## Journey map / Empathy Map
-The following empathy map and journey map were created from the point of view of a generic user that shares the common traits of the personas above, but may lack the idiosyncracies of any particular persona.
+We created the following empathy and journey maps for the Fiona persona.
+
 ![image](/resources/empathy-map.jpg)
 
 ![image](/resources/journey-map.jpg)
@@ -94,9 +95,9 @@ Users can limit their usage of distracting apps.
 We found the design process both illuminating and rewarding. By conducting research on the problem and users' behavioral patterns first, we were more confident that our design decisions later on were relevant to them, and enhanced rather than hindered their needs and goals. We enjoyed incrementally and iteratively refining our conception of our users and the user experience we plan to deliver to them. Given the opportunity, we would like to develop this application further.
 
 ## References
-[1. https://hms.harvard.edu/news/screen-time-brain](https://hms.harvard.edu/news/screen-time-brain)
-[2. https://www.ifit.com/](https://www.ifit.com/)
-[3. http://www.shopwell.com/nutrition](http://www.shopwell.com/nutrition)
+[1. https://hms.harvard.edu/news/screen-time-brain](https://hms.harvard.edu/news/screen-time-brain) \
+[2. https://www.ifit.com/](https://www.ifit.com/) \
+[3. http://www.shopwell.com/nutrition](http://www.shopwell.com/nutrition) \
 [4. https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep)
 
 
