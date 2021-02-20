@@ -78,27 +78,26 @@ We created the following empathy and journey maps for the Fiona persona.
 ![image](/resources/journey-map.jpg)
 
 ## Our solution
-In OptiScreen, we provide several functinoality in the super-app in order to improve your health level.
+For OptiScreen, we provide several functions in a super-app format improve your health level.
 
 ### 1. Zen Mode
-If you need focus on your task and feel distracted by the notification of the phone. Zen Mode can help you level up your concentration to the maximum level.
-Let's say you are a student need to focusing to study on your exam, and you need 2 hours for it. Input your time in Zen Mode, phone will be completly disable during these hours. No phone call, no pop up notification, you can only access the clock on your phone, and there is no way to unlock it until time is reached.
+If you need focus on your task and feel distracted by the phone notifications. Zen Mode can help you level up your concentration to the maximum level.
+Let's say you're a student who needs to study for an exam, and you need two hours of peace and quiet. Input your time in Zen Mode, and your phone will be completly disabled during these hours. No phone calls, no pop up notifications, you can only access the clock on your phone, and there is no way to unlock it until the set time is reached. Communications from contacts on a whitelist may still get through so that you don't miss important calls from family and loved ones.
 
-### 2. Move your body (Workout)
-Feeling need to workout a little bit but lack of mood? Our AI cautch will help you on that and give a general tour about all exercise you are willing to do.
+### 2. Move Your Body (Workout)
+Feeling the need to workout a little bit but lack the motivation? Our AI will help you on that, giving you a personalized workout plan, and providing helpful reminders to keep you accountable.
 
 ### 3. Sleep well
-Had a hard time to sleep because the phone is too much fun? This mode will lock your phone and play music to help you getting better time.
+Have a hard time sleeping because the phone is too much fun? This mode will lock your phone and play soothing music or sounds to help you fall asleep.
 
 ### 4. Guard my app
-Spend 8 hours a day on Facebook? You could set a timing for that and decide how can we interrupt you usage of such application.
+Spend eight hours a day on Facebook? You could set a time limit for that and decide how can we interrupt your usage of such applications.
 
 ### 5. Parenting
-This is a parenting control for you kid.
+This is a parenting control for your kid.
 
 ### 6. My milestone
-This how your statistic about the app usage, what is the improvement you had made with OptiScreen during these time.
-
+This keeps statistics about your usage of the app: what improvements have you made with OptiScreen since you installed it?
 
 
 ## Sketches / Wireframes
