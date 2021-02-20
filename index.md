@@ -2,9 +2,9 @@
 
 Conducted by:
 
-- Richard Riley Kilmer-Choi - 40048739
-- Jeffrey Wilgus - 29206345
-- TianMing Chen - 40058543
+- Richard Riley Kilmer-Choi - 40048739 (section V VB)
+- Jeffrey Wilgus - 29206345 (section S SA)
+- TianMing Chen - 40058543 (section S SA)
 
 
 ## The Problem
