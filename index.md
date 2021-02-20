@@ -80,23 +80,23 @@ We created the following empathy and journey maps for the Fiona persona.
 ## Our solution
 In OptiScreen, we provide several functinoality in the super-app in order to improve your health level.
 
-# 1. Zen Mode
+### 1. Zen Mode
 If you need focus on your task and feel distracted by the notification of the phone. Zen Mode can help you level up your concentration to the maximum level.
 Let's say you are a student need to focusing to study on your exam, and you need 2 hours for it. Input your time in Zen Mode, phone will be completly disable during these hours. No phone call, no pop up notification, you can only access the clock on your phone, and there is no way to unlock it until time is reached.
 
-# 2. Move your body (Workout)
+### 2. Move your body (Workout)
 Feeling need to workout a little bit but lack of mood? Our AI cautch will help you on that and give a general tour about all exercise you are willing to do.
 
-# 3. Sleep well
+### 3. Sleep well
 Had a hard time to sleep because the phone is too much fun? This mode will lock your phone and play music to help you getting better time.
 
-# 4. Guard my app
+### 4. Guard my app
 Spend 8 hours a day on Facebook? You could set a timing for that and decide how can we interrupt you usage of such application.
 
-# 5. Parenting
+### 5. Parenting
 This is a parenting control for you kid.
 
-# 6. My milestone
+### 6. My milestone
 This how your statistic about the app usage, what is the improvement you had made with OptiScreen during these time.
 
 ## Sketches / Wireframes
