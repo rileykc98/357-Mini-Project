@@ -53,7 +53,7 @@ Our expert was asked to reflect on their years of education and experience, to a
 As a countermeasure to rising amounts of screentime, our experts suggested the following strategies. First, having non-screen activities on hand and schedule them intermittently throughout the day to break up screen time. These activies could include listening to music, exercising, reading etc. Next, our expert recommended using only one primary source of social media, in an effort to reduce the amount of time spent scrolling. Lastly, in light of the pandemic, our expert advised using screens for genuine human connection as much as possible. Meaning, trading scrolling through media feeds for video calling with friends as this is known to replenish one's emotional tank.
 
 ## User Personas
-Base on our research, we have developed the following personas that capture the behavioral variables of our targeted user bases.
+Based on our research, we have developed the following personas that capture the behavioral variables of our targeted user bases.
 
 Alexandre Mayen
 ![image](/resources/persona-alexandre.jpg)
