@@ -24,7 +24,7 @@ There are of course already many apps that attempt to promote healthy habits suc
 The common theme threading through these examples, and the many other health-oriented apps on the market is their targeted precision. They attempt to enhance users lives by promoting a small, specific set of activities. This approach seems natural &mdash; they do one thing and they do it well. However, we hypothesize that a more holistic approach whereby the features provided to users by individual apps are integrated into a single application could achieve more by providing a more coherent user experience. In the following section we discuss our research on this premise.
 
 ### Public Survey
-In order to better understand potential users of (the app), we conducted a public survey of 25 people. The survey responses are summarized and analyzed below.
+In order to better understand potential users of the application to be, we conducted a public survey of 25 people. The survey responses are summarized and analyzed below.
 
 Of the 25 people surveyed, only 11 conciously tracked their amount of screentime on a regular basis. Additionally, in the past 6 months only 8% of people surveyed stated that their average screentime decreased, while 60% stated that their screentime increased. With the increased dependency on technology as a means of human connection with escalating restrictions due to COVID-19, it is becoming more and more important to manage screentime effectively for both physical and mental health. 
 
